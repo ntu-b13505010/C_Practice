@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# C compiled files
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# My compiled executables
+day1
+day2
+day2_2
+day2_3
