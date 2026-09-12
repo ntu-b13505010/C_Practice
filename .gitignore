@@ -1,14 +1,18 @@
 # macOS
 .DS_Store
 
-# C compiled files
+# C build files
 *.o
 *.out
 *.exe
 *.dSYM/
 
-# My compiled executables
+# Build folder
+build/
+
+# Old executables
 day1
 day2
 day2_2
 day2_3
+day3
